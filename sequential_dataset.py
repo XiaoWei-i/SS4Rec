@@ -1,5 +1,3 @@
-# @Time   : 2024/9/16
-# @Author : Wei Xiao
 # @Comment: Replace recbole.data.sequential_dataset with this file
 
 """
